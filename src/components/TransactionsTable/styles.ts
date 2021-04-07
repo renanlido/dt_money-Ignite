@@ -19,7 +19,7 @@ export const Container = styled.div`
       padding: 1rem 2rem;
       border: 0;
       background: var(--shape);
-      font-weight: 400;
+      font-weight: 500;
       color: var(--text-body);
       border-radius: 0.25rem;
 
@@ -27,12 +27,12 @@ export const Container = styled.div`
         color: var(--text-title);
       }
 
-      &.income {
+      &.deposit {
         color: var(--green);
       }
 
-      &.outcome {
-        color: var(--red)
+      &.withdraw {
+        color: var(--red);
       }
     }
   }
