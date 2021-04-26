@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+[![LICENSE](https://img.shields.io/npm/l/react-native-template-rocketseat-advanced.svg)](https://choosealicense.com/licenses/mit)
+[![USED_TECH](https://img.shields.io/badge/used%20tech-React.js-blue)](https://pt-br.reactjs.org/)
+[![LAST_COMMIT](https://img.shields.io/badge/last%20commit-April%202021-orange)](https://github.com/renanlido/dt_money-Ignite/commits)
+[![NPM](https://img.shields.io/badge/school-Rocketseat-blueviolet)](https://rocketseat.com.br)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--LOGO-->
+<br/>
+<div align="center">
+    <a href="">
+        <img width="200px" src="./assets/logo.svg" alt="Logo Ignews">
+    </a>
+    <h3 color="#ffff" >Control your money!</h3>
+    </br>
+</div>
 
-## Available Scripts
+<!-- ABOUT THE PROJECT -->
+# <strong>Sobre o Projeto</strong>
+Este projeto visa a criação de um aplicativo de controle financeiro utilizando o React.js desenvolvido em aula no curso [Ignite da Rocketseat](https://rocketseat.com.br).
 
-In the project directory, you can run:
+</br>
 
-### `yarn start`
+# <strong>Tecnologias Utilizadas</strong>
+### Neste projeto utilizamos: 
+<strong>[ReactJs](https://pt-br.reactjs.org/)</strong> : Uma biblioteca JavaScript para criar interfaces de usuário. A tecnologia NextJs roda com ReactJs por baixo dos panos o que nos permite ter flexibilidade de criar e reutilizar componentes além de utilizar a metologia SPA (Single Page Aplication) em algumas páginas do projeto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<strong>[Styled Components](https://styled-components.com/)</strong> : Pacote para componentizar css e utliza-lo em cascata.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</br>
 
-### `yarn test`
+<!--INSTALATION-->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Instalação
 
-### `yarn build`
+1. Para instalar e utilizar este projeto o processo é bem simples, após clonar o projeto utilize o comando:
+    ```sh
+    yarn
+    ```
+    Caso não tenha o yarn instalado, utilize o gerenciador de pacotes da sua preferência.        
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Após isto, utilize o comando abaixo para rodar o aplicativo.
+    ```ssh 
+    yarn start 
+    ```
+</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!--THE RESULT-->
 
-### `yarn eject`
+# <strong>O resultado!</strong>
+<img src="./assets/dt_money_home.png" alt="Home">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<div>
+    </br>
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="./assets/dt_money_modal.png" alt="Modal">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<div>
+    </br>
+</div>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- LICENSE -->
 
-## Learn More
+# **Licença**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- CONTACT -->
+</br>
+
+# **Contato**
+
+### Renan Oliveira - **renanlido@yahoo.com.br**
+
+[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
+[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
+
+</br></br>
+Obrigado por ter vindo 😊🤗
